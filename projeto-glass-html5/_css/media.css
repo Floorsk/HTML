@@ -30,8 +30,7 @@ video#front1 {
     display: block;
     position: center;
     left: 10px;
-    top: 0;
-    bottom: 100px;
+    top: 100;
     width: 505px;
 
 }
